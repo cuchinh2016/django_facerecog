@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==5.1
+numpy==2.1.0
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84
+sqlparse==0.5.1
+tzdata==2024.1
